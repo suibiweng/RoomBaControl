@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{7695EB45-904A-CE08-C0A1-8C82B86E1BAF}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/FloorGrid.cs">
+    <Files>
+      <File FileName="Assets/Scripts/FloorGrid.cs" Line="7" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4046e9d7-e35c-4027-b1cd-ffc3c1756d23" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
